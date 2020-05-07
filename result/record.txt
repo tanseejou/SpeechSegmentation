@@ -1,0 +1,29 @@
+	Time Tolerence = 0.10	Threshold = 2.00	Win Size = 350
+
+	Rate-->  	P(M)	P(O)	P(I)
+	Pattern 1	0.88 	0.13 	0.00
+	Pattern 2	1.00 	0.00 	0.00
+	Pattern 3	0.88 	0.13 	0.22
+	Pattern 4	1.00 	0.00 	0.11
+	Pattern 5	0.88 	0.13 	0.22
+	Pattern 6	0.88 	0.13 	0.13
+	Pattern 7	1.00 	0.00 	0.11
+	Pattern 8	1.00 	0.00 	0.00
+	Pattern 9	0.88 	0.13 	0.30
+	Pattern 10	1.00 	0.00 	0.33
+	Pattern 11	0.88 	0.13 	0.22
+	Pattern 12	1.00 	0.00 	0.11
+	Pattern 13	1.00 	0.00 	0.00
+	Pattern 14	1.00 	0.00 	0.00
+	Pattern 15	1.00 	0.00 	0.00
+	Pattern 16	1.00 	0.00 	0.11
+	Pattern 17	0.88 	0.13 	0.22
+	Pattern 18	1.00 	0.00 	0.11
+	Pattern 19	1.00 	0.00 	0.20
+	Pattern 20	1.00 	0.00 	0.11
+
+
+Total P: 160 Total N: 177 Total M: 153
+Total Match Rate = 0.96
+Total Omission Rate = 0.04
+Total Insertion Rate = 0.14
